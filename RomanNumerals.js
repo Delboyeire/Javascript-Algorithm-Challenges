@@ -1,6 +1,7 @@
 /**
  * Created by Derek on 19/06/2017.
  *
+ * Convert the given number into a roman numeral.
  */
 
 function convertToRoman(num) {
